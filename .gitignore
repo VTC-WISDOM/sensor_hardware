@@ -1,0 +1,13 @@
+* .zip
+**/*.zip
+*.lck
+*.svg
+*.step
+*.stp
+*.jpg
+*.jpeg
+*.png
+*.pdf
+*.csv
+*gerbers/
+**/gerbers
